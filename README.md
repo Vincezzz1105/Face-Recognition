@@ -72,8 +72,3 @@ Plots for training/validation loss and accuracy are generated and displayed to a
 - [GoogLeNet CNN Architecture Explained](https://medium.com/@AnasBrital98/googlenet-cnn-architecture-explained-inception-v1-225ae02513fd)
 - [ResNet50 Model Implementation](https://medium.com/@karuneshu21/how-to-resnet-in-pytorch-9acb01f36cf5)
 
-## Contributors
-- **Cecilia0999**
-
-## License
-This project is available under the MIT License.
