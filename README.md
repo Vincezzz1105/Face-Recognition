@@ -1,5 +1,3 @@
-# Face-Recognition
-
 # Fake AI-Generated Photo Detection
 
 ## Overview
